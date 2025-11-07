@@ -1,0 +1,35 @@
+› Skipping dev server
+› Planning build
+    Run script build phase '[CP-User] [Hermes] Replace Hermes for the right configuration, if needed' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'hermes-engine' from project 'Pods')
+› Executing react-native Pods/hermes-engine » [CP-User] [Hermes] Replace Hermes for the right configuration, if needed
+› Executing react-native Pods/ReactNativeDependencies » [CP-User] [RNDeps] Replace React Native Dependencies for the right configuration, if needed
+› Preparing expo-constants Pods/EXConstants-EXConstants » ResourceBundle-EXConstants-EXConstants-Info.plist
+› Preparing Pods/EXConstants-ExpoConstants_privacy » ResourceBundle-ExpoConstants_privacy-EXConstants-Info.plist
+› Executing react-native Pods/React-Core-prebuilt » [CP-User] [RNDeps] Replace React Native Core for the right configuration, if needed
+› Preparing Pods/React-cxxreact-React-cxxreact_privacy » ResourceBundle-React-cxxreact_privacy-React-cxxreact-Info.plist
+› Preparing Pods/React-Core-React-Core_privacy » ResourceBundle-React-Core_privacy-React-Core-Info.plist
+› Executing react-native Pods/React-RCTFBReactNativeSpec » [CP-User] [RN]Check FBReactNativeSpec
+› Preparing Pods/expo-dev-menu-EXDevMenu » ResourceBundle-EXDevMenu-expo-dev-menu-Info.plist
+› Preparing Pods/ExpoFileSystem-ExpoFileSystem_privacy » ResourceBundle-ExpoFileSystem_privacy-ExpoFileSystem-Info.plist
+› Executing expo-constants Pods/EXConstants » [CP-User] Generate app.config for prebuilt Constants.manifest
+› Preparing Pods/expo-dev-launcher-EXDevLauncher » ResourceBundle-EXDevLauncher-expo-dev-launcher-Info.plist
+› Executing UIPlayground » [Expo] Configure project
+› Preparing UIPlayground » Info.plist
+› Linking   UIPlayground » UIPlayground.debug.dylib
+› Linking   UIPlayground » UIPlayground
+› Executing UIPlayground » Bundle React Native code and images
+› Executing UIPlayground » [CP] Copy Pods Resources
+› Generating debug UIPlayground » UIPlayground.app.dSYM
+› Generating debug UIPlayground » UIPlayground.app.dSYM
+› Signing   UIPlayground » UIPlayground.debug.dylib
+› Signing   UIPlayground » __preview.dylib
+› Signing   UIPlayground » UIPlayground.app
+› Build Succeeded
+
+› 0 error(s), and 1 warning(s)
+
+Waiting on http://localhost:8081
+› Installing /Users/patrickmckowen/Library/Developer/Xcode/DerivedData/UIPlayground-duandyiokedwiofcfpqkcmxrcgyr/Build/Products/Debug-iphonesimulator/UIPlayground.app
+› Installing on iPhone 16
+› Opening on iPhone 16 (com.patrickmckowen.ui-playground-rn)
+› Opening exp+ui-playground-rn://expo-development-client/?url=http%3A%2F%2F192.168.0.215%3A8081 on iPhone 16
